@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Hector\\AndroidStudioProjects\\Aplicacion1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Hector\\AndroidStudioProjects\\Aplicacion1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hector\\Documents\\GitHub\\App-AndroidSqlite-Login-crud\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Hector\\Documents\\GitHub\\App-AndroidSqlite-Login-crud\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
